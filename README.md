@@ -1,3 +1,4 @@
 # Amino13
-Amino acid pattern matching
+Amino acid pattern matching.
+
 This is a repository.
