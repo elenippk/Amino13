@@ -2,10 +2,7 @@
 
 <h6> The plan is to automate *patern matching* in an amino acid sequence.
 
-_You can find our previous work [**here**_] (darkdna.gr)
-
-http://github.com - automatic!
-[GitHub](http://github.com)
+_You can find our previous work _**here**_ [The Dark Dna Group](http://darkdna.gr)
 
 Run the code by using the `<addr>` command.
 
